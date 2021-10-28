@@ -3,7 +3,7 @@ title: "Causal Team"
 theme: "theme_1.css"
 description: |
   Causal Team
-output_dir: "_site"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
