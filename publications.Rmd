@@ -1,12 +1,10 @@
 ---
-title: "Projects"
+title: "Resources"
 ---
 
 ```{r setup, include=FALSE}
-library(distill)
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
 
 ## Semi-Supervised Causal Relation Extraction
 
@@ -21,6 +19,8 @@ Our team is developing a semi-supervised method for creating large scale causal 
 </p>
 
 ## What Causes Causality?
+
+<a href="papers/Causal_Paper_Draft.pdf">Working draft</a>
 
 <p>
 Deep learning models can perform well on complex tasks, but are often black boxes.

@@ -7,13 +7,39 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-### Taofeek Alao
+## Principal Investigator
 
 ### Sunandan Chakraborty
 
+<div class="wrapper">
+<div>
+<img src="images/sunandan.jpg" class="imgbio"></img>
+</div>
+<div>
+Sunandan Chakraborty is an assistant professor of Data Science at IUPUI. 
+
+* [Google Scholar](https://scholar.google.com/citations?user=SlAPvswAAAAJ&hl=en)
+
+</div>
+</div>
+
+
+## Graduate Research Assistants
+
 ### Palak Jain
 
-### Sawyer Lehman
+<div class="wrapper">
+<div>
+<img src="images/palak.jpg" class="imgbio"></img>
+</div>
+<div>
+Palak is an Applied Data Science masters student in the School of Informatics and Computing at IUPUI. 
+
+* [GitHub](https://github.com/palak-j)
+* [LinkedIn](https://www.linkedin.com/in/palak-jain-83358215b/)
+</div>
+</div>
+
 
 ### Jack VanSchaik
 
@@ -29,4 +55,33 @@ Jack is a Data Science PhD student in the School of Informatics and Computing at
 * [Google Scholar](https://scholar.google.com/citations?user=QmuT_t0AAAAJ&hl=en&oi=ao)
 </div>
 </div>
+
+## Undergraduate Research Assistants
+
+### Taofeek Alao
+
+<div class="wrapper">
+<div>
+<img src="images/taofeek.jpg" class="imgbio"></img>
+</div>
+<div>
+Taofeek is an undergraduate majoring in informatics at IUPUI.
+
+</div>
+</div>
+
+### Sawyer Lehman
+
+<div class="wrapper">
+<div>
+<img src="images/sawyer.jpg" class="imgbio"></img>
+</div>
+<div>
+Sawyer is an undergraduate majoring in Bioinformatics. She is interested in all aspects of machine learning and aspires to pursue a career in research using machine learning to understand biological problems.
+
+* [LinkedIn](https://www.linkedin.com/in/sawyer-lehman-983978220)
+
+</div>
+</div>
+
 
